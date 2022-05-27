@@ -1,7 +1,7 @@
-#Ejercicios de algoritmos implementados en JavaScript
+# Ejercicios de algoritmos implementados en JavaScript
 Implementacion de los ejercicios de algoritmos en JavaScript
 
-##Los algoritmos realizados son los siguientes:
+## Los algoritmos realizados son los siguientes:
 1. Determinar el numero mayor de 3 numeros ingresados.
 2. Determinar el numero menor de 3 numeros ingresados.
 4. Determinar si un numero es multiplo de 3.
@@ -9,5 +9,5 @@ Implementacion de los ejercicios de algoritmos en JavaScript
 6. Determinar si un numero es par o impar.
 
 
-Faltan por realizar :
+# Faltan por realizar :
 3. Adivinar un numero entre 1 y 100.
